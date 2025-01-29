@@ -1,2 +1,2 @@
-# .github
-The Ultimate AI OS powered by blockchai​n
+The Ultimate AI OS
+powered by blockchai​n
