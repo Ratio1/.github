@@ -12,7 +12,7 @@
 
 ## 🚀 Welcome to Ratio1
 
-Ratio1 is revolutionizing AI accessibility through our groundbreaking **Decentralized Neuro-symbolic Autonomous processing framework (Ratio1 DNA)**[36]. We're building the ultimate AI Meta Operating System that transforms everyday devices into powerful AI processing nodes, creating a trustless, privacy-preserving, and economically sustainable ecosystem[26][36].
+Ratio1 is revolutionizing AI accessibility through our groundbreaking **Decentralized Neuro-symbolic Autonomous processing framework (Ratio1 DNA)**. We're building the ultimate AI Meta Operating System that transforms everyday devices into powerful AI processing nodes, creating a trustless, privacy-preserving, and economically sustainable ecosystem.
 
 ### 🎯 Our Mission
 
@@ -22,19 +22,19 @@ To democratize AI by eliminating traditional barriers through blockchain-powered
 
 ### Ratio1 DNA Framework
 
-Our proprietary **Ratio1 DNA** (Decentralized Neuro-symbolic Autonomous processing) framework represents a paradigm shift in AI democratization[36]. This revolutionary architecture enables:
+Our proprietary **Ratio1 DNA** (Decentralized Neuro-symbolic Autonomous processing) framework represents a paradigm shift in AI democratization. This revolutionary architecture enables:
 
-- **Trustless Micro-transactions**: Blockchain-validated processing reduces entry barriers[36]
-- **Edge Computing Network**: Transform consumer devices into AI supercomputers[26][36]
-- **Low-Code Development**: Deploy AI applications without DevOps teams[18][36]
+- **Trustless Micro-transactions**: Blockchain-validated processing reduces entry barriers
+- **Edge Computing Network**: Transform consumer devices into AI supercomputers
+- **Low-Code Development**: Deploy AI applications without DevOps teams
 
 ### Three-Tier Node Ecosystem
 
-**Genesis Node Deed (GND)**: The foundational node exclusively held by the Ratio1 Foundation, activating the entire ecosystem[38].
+**Genesis Node Deed (GND)**: The foundational node exclusively held by the Ratio1 Foundation, activating the entire ecosystem.
 
-**Master Node Deeds (MND)**: Specialized licenses for development teams and initial investors, supporting core ecosystem functions over 30+ months[38].
+**Master Node Deeds (MND)**: Specialized licenses for development teams and initial investors, supporting core ecosystem functions over 30+ months.
 
-**Node Deeds (ND)**: Public licenses enabling individual edge node operation within the decentralized infrastructure[38].
+**Node Deeds (ND)**: Public licenses enabling individual edge node operation within the decentralized infrastructure.
 
 ## 🛠️ Key Repositories
 
@@ -42,9 +42,9 @@ Our proprietary **Ratio1 DNA** (Decentralized Neuro-symbolic Autonomous processi
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [`edge_node`](https://github.com/Ratio1/edge_node) | DecentrAI edge node - the backbone of our decentralized network[24][26] | Python |
-| [`naeural_core`](https://github.com/Ratio1/naeural_core) | Foundational "bare-metal" modules for the Ratio1 meta-OS[40] | Python |
-| [`ratio1_sdk`](https://github.com/Ratio1/ratio1_sdk) | SDK for remote client access and low-code development[18] | Python |
+| [`edge_node`](https://github.com/Ratio1/edge_node) | DecentrAI edge node - the backbone of our decentralized network | Python |
+| [`naeural_core`](https://github.com/Ratio1/naeural_core) | Foundational "bare-metal" modules for the Ratio1 meta-OS | Python |
+| [`ratio1_sdk`](https://github.com/Ratio1/ratio1_sdk) | SDK for remote client access and low-code development | Python |
 
 ### Development Tools
 
@@ -69,13 +69,13 @@ Our proprietary **Ratio1 DNA** (Decentralized Neuro-symbolic Autonomous processi
 ## 💎 Technical Capabilities
 
 ### Instant AI Deployment
-Launch scalable, load-balanced AI microservices without DevOps expertise[22][36]. Our platform provides pre-designed templates and automated scaling for rapid application deployment.
+Launch scalable, load-balanced AI microservices without DevOps expertise. Our platform provides pre-designed templates and automated scaling for rapid application deployment.
 
 ### Democratized Infrastructure
-Transform consumer devices into decentralized AI nodes, creating an accessible supercomputer network that reduces dependence on expensive GPU infrastructure[22][36].
+Transform consumer devices into decentralized AI nodes, creating an accessible supercomputer network that reduces dependence on expensive GPU infrastructure.
 
 ### Integrated Security & Compliance
-Built-in blockchain security with signature-based validation and automated compliance management[22][36]. All operations are verifiable on-chain with end-to-end encryption.
+Built-in blockchain security with signature-based validation and automated compliance management. All operations are verifiable on-chain with end-to-end encryption.
 
 ### Economic Incentives
 Participate in the R1 token economy where computing resource providers, developers, and maintainers earn rewards for their contributions[38].
@@ -83,15 +83,15 @@ Participate in the R1 token economy where computing resource providers, develope
 ## 🌐 Ecosystem Components
 
 ### Data Processing Pipeline
-- **Collection**: MQTT, RTSP, CSV, ODBC, and custom sensor integrations[40]
-- **Processing**: Trustless model training and inference with data integrity[40]
-- **Business Logic**: Post-inference decision making and actionable insights[40]
-- **Persistence**: Reliable pipeline maintenance across deployments[40]
+- **Collection**: MQTT, RTSP, CSV, ODBC, and custom sensor integrations
+- **Processing**: Trustless model training and inference with data integrity
+- **Business Logic**: Post-inference decision making and actionable insights
+- **Persistence**: Reliable pipeline maintenance across deployments
 
 ### Communication Infrastructure
-- **MQ-based**: Advanced messaging queues for node coordination[40]
-- **API-based**: RESTful interfaces for external integrations[40]
-- **Load Balancing**: ngrok integration for optimized network performance[40]
+- **MQ-based**: Advanced messaging queues for node coordination
+- **API-based**: RESTful interfaces for external integrations
+- **Load Balancing**: ngrok integration for optimized network performance
 
 ## 📊 Token Economy
 
@@ -100,8 +100,8 @@ The **R1 token** powers the entire Ratio1 ecosystem with a maximum supply of 161
 
 - **Node Operations**: Rewards for edge node operators
 - **Development**: Incentives for application developers
-- **Liquidity**: 50% of license purchases go to liquidity pools[38]
-- **Burn Mechanism**: 20% of license purchases are permanently burned[38]
+- **Liquidity**: 50% of license purchases go to liquidity pools
+- **Burn Mechanism**: 20% of license purchases are permanently burned
 
 ## 🤝 Community & Contribution
 
