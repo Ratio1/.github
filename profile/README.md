@@ -58,10 +58,10 @@ Our proprietary **Ratio1 DNA** (Decentralized Neuro-symbolic Autonomous processi
 
 ### Hardware Requirements
 
-**Minimum System Requirements**[26]:
-- **CPU**: 64-bit processor, 2 cores (vCores supported)
-- **RAM**: 6GB
-- **Storage**: 10GB
+**Minimum System Requirements**:
+- **CPU**: 64-bit processor, 4 cores (vCores supported)
+- **RAM**: 16GB
+- **Storage**: 100GB
 - **OS**: Linux, Windows, macOS
 - **Additional**: Docker installed
 
