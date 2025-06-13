@@ -16,7 +16,7 @@ Ratio1 is revolutionizing AI accessibility through our groundbreaking **Decentra
 
 ### 🎯 Our Mission
 
-To democratize AI by eliminating traditional barriers through blockchain-powered infrastructure that enables instant AI deployment, reduces costs, and rewards community participation[22][36].
+To democratize AI by eliminating traditional barriers through blockchain-powered infrastructure that enables instant AI deployment, reduces costs, and rewards community participation.
 
 ## 🏗️ Core Architecture
 
@@ -96,7 +96,7 @@ Participate in the R1 token economy where computing resource providers, develope
 ## 📊 Token Economy
 
 ### R1 Utility Token
-The **R1 token** powers the entire Ratio1 ecosystem with a maximum supply of 161,803,398 tokens[38]. Token distribution includes:
+The **R1 token** powers the entire Ratio1 ecosystem with a maximum supply of 161,803,398 tokens. Token distribution includes:
 
 - **Node Operations**: Rewards for edge node operators
 - **Development**: Incentives for application developers
@@ -114,22 +114,22 @@ The **R1 token** powers the entire Ratio1 ecosystem with a maximum supply of 161
 
 ### Getting Support
 
-- **Website**: [ratio1.ai](https://ratio1.ai)[26]
-- **Documentation**: [ratio1.ai/docs](https://ratio1.ai/docs)[36]
-- **Email**: support@ratio1.ai[26]
+- **Website**: [ratio1.ai](https://ratio1.ai)
+- **Documentation**: [ratio1.ai/docs](https://ratio1.ai/docs)
+- **Email**: support@ratio1.ai
 - **Community**: Join our developer discussions
 
 ## 🌱 Sustainability Commitment
 
-Ratio1 is committed to making AI greener through resource optimization and reduced environmental impact[36]. Our decentralized approach significantly reduces the carbon footprint compared to traditional centralized AI infrastructure.
+Ratio1 is committed to making AI greener through resource optimization and reduced environmental impact. Our decentralized approach significantly reduces the carbon footprint compared to traditional centralized AI infrastructure.
 
 ## 📄 License
 
-All Ratio1 repositories are licensed under the **Apache 2.0 License**, ensuring open collaboration while protecting intellectual property[26].
+All Ratio1 repositories are licensed under the **Apache 2.0 License**, ensuring open collaboration while protecting intellectual property.
 
 ## 🎯 Vision
 
-We envision a future where AI is truly accessible to everyone - where innovation isn't limited by infrastructure costs or technical complexity[36]. Through Ratio1, we're building the foundation for the next generation of AI-driven applications in a decentralized, secure, and economically sustainable ecosystem.
+We envision a future where AI is truly accessible to everyone - where innovation isn't limited by infrastructure costs or technical complexity. Through Ratio1, we're building the foundation for the next generation of AI-driven applications in a decentralized, secure, and economically sustainable ecosystem.
 
 ---
 
