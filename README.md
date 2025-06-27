@@ -1,8 +1,7 @@
-The Ultimate AI OS
-powered by blockchai​n
+# The Ultimate AI meta-OS powered by blockchai​n
 
 
-# 2026 Key Milestones
+## 2026 Key Milestones
 
 * **June 2026** – **Core Tech:** Mainnet launch of **Deeploy** (decentralized container orchestration).  Deeploy replaces a central Kubernetes-like controller with smart-contract scheduling, enabling trustless container deployment across edge nodes.
 
@@ -54,7 +53,7 @@ powered by blockchai​n
 
 * **December 2026** – **Partners:** Official v1 release of the **Creation Toolkit** and **LabelCraft** (stable 1.0 versions), completing the AI-for-Everyone suite.
 
-# 2027 Key Milestones
+## 2027 Key Milestones
 
 * **Q1 2027 (Jan–Mar)** – **Core Tech:** Deploy **Escrow v3** on mainnet (per-epoch reward claims, eliminating full upfront escrow).  This makes the Proof-of-AI staking more flexible.
 
