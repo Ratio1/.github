@@ -7,7 +7,7 @@
 
 * **July 2025** – **Core Tech:** Integrate **ChainDist** with CSTORE (in-memory key-value store) and release **ChainDist v1**.  ChainDist is a high-performance, fault-tolerant job execution framework (across heterogeneous nodes), now fully integrated with the Ratio1 CSTORE for state management.
 
-* **July 2025** – **Partners:** Complete first migration of workloads from native cloud infrastructure to the Ratio1 mainnet, demonstrating real-world deployment.
+* **July 2025** – **Partners:** Complete first and second migrations of workloads from native cloud infrastructure to the Ratio1 mainnet, demonstrating real-world deployment.
 
 * **July 2025** – **Core Tech:** Launch **J33VES framework v1** (multi-foundation model decentralized framework) and migrate existing pilot apps from v0.9 to v1.  J33VES is designed to support open-weight LLMs and plug in future AI models seamlessly.
 
