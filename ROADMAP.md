@@ -33,7 +33,7 @@
 
 * **September 2025** – **Core Tech:** Release **dAuth v2** (decentralized authentication) on mainnet and migrate from v1.  dAuth already replaces centralized credentials, securely onboarding nodes and clients via blockchain-validated identity.
 
-* **September 2025** – **Core Tech:** Launch **Deeploy v2** (automated orchestration) and **Escrow v2** (fully automated staking) on mainnet.
+* **September 2025** – **Core Tech:** Launch **Deeploy v2** (automated orchestration) and **Escrow v2** (fully automated rewards distribution) on mainnet.
 
 * **September 2025** – **Partners:** Publish **LabelCraft v0.5** public beta for community testing.
 
@@ -55,7 +55,7 @@
 
 ## 2026 Key Milestones
 
-* **Q1 2026 (Jan–Mar)** – **Core Tech:** Deploy **Escrow v3** on mainnet (per-epoch reward claims, eliminating full upfront escrow).  This makes the Proof-of-AI staking more flexible.
+* **Q1 2026 (Jan–Mar)** – **Core Tech:** Deploy **Escrow v3** on mainnet (per-epoch reward claims, eliminating full upfront escrow).  This makes the Proof-of-AI more flexible.
 
 * **Q1 2026** – **Partners:** Onboard the first batch of **joint research projects** (external partners that will consume Ratio1 compute), solidifying user adoption.
 
