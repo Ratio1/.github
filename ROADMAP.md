@@ -1,9 +1,9 @@
 
 ## 2025 Key Milestones
 
-* **June 2025** – **Core Tech:** Mainnet launch of **Deeploy** (decentralized container orchestration).  Deeploy replaces a central Kubernetes-like controller with decentralized and smart-contract-secured scheduling, enabling trustless container deployment across edge nodes.
+* **July 2025** – **Core Tech:** Mainnet launch of **Deeploy** (decentralized container orchestration).  Deeploy replaces a central Kubernetes-like controller with decentralized and smart-contract-secured scheduling, enabling trustless container deployment across edge nodes.
 
-* **June 2025** – **Core Tech:** Release of **R1FS v1** (distributed file storage) with migration from v0.8.  R1FS provides encrypted, sharded, secure, decentralized data storage across the network, preventing any single point of failure.
+* **July 2025** – **Core Tech:** Release of **R1FS v1** (distributed file storage) with migration from v0.8.  R1FS provides encrypted, sharded, secure, decentralized data storage across the network, preventing any single point of failure.
 
 * **July 2025** – **Core Tech:** Integrate **ChainDist** with CSTORE (in-memory key-value store) and release **ChainDist v1**.  ChainDist is a high-performance, fault-tolerant job execution framework (across heterogeneous nodes), now fully integrated with the Ratio1 CSTORE for state management.
 
