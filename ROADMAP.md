@@ -21,7 +21,7 @@
 
 * **August 2025** – **Partners:** Present pre-beta of **"AI-for-Everyone LabelCraft"** (Ratio1 AI4E data-labeling tool for custom ML datasets).
 
-* **August 2025** – **Core Tech:** Release **Deeploy v1** on mainnet (complete UI/UX and customizable deployment templates).  This takes container orchestration user-friendlieness to a new level.
+* **August 2025** – **Core Tech:** Release **Deeploy v1** on mainnet (complete UI/UX and customizable deployment templates).  This takes container orchestration user-friendliness to a new level.
 
 * **August 2025** – **Core Tech:** Deploy **Proof-of-AI (PoAI) Escrow v1** on mainnet to secure service payments.  In PoAI escrow, smart contracts hold developer/consumer payments as rewards for R1OPs (node operators) until oracle-verified task completion, ensuring trustless settlement.
 
