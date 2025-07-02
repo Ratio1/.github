@@ -5,6 +5,10 @@
 
 * **July 2025** – **Core Tech:** Release of **R1FS v1** (distributed file storage) with migration from v0.8.  R1FS provides encrypted, sharded, secure, decentralized data storage across the network, preventing any single point of failure.
 
+* **July 2025** – **Core Tech:** Release of **R1FS v1** Local Endpoint v1.  R1FS Local Endpoint provides non-native containerized apps with access to the whole decentralized R1FS storage - legacy apps can now access any decentralized stored data with proper credentials.
+
+* **July 2025** – **Core Tech:** Release of **CSTORE** Local Endpoint v1 and migration from v0.7. CSTORE Local Endpoint provides non-native containerized apps with access to the decentralized in-memory database - legacy apps can now cooperate across decentralized compute continuum.
+
 * **July 2025** – **Core Tech:** Integrate **ChainDist** with CSTORE (in-memory key-value store) and release **ChainDist v1**.  ChainDist is a high-performance, fault-tolerant job execution framework (across heterogeneous nodes), now fully integrated with the Ratio1 CSTORE for state management.
 
 * **July 2025** – **Partners:** Complete first and second migrations of workloads from native cloud infrastructure to the Ratio1 mainnet, demonstrating real-world deployment.
