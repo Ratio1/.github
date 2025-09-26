@@ -78,7 +78,7 @@ Transform consumer devices into decentralized AI nodes, creating an accessible s
 Built-in blockchain security with signature-based validation and automated compliance management. All operations are verifiable on-chain with end-to-end encryption.
 
 ### Economic Incentives
-Participate in the R1 token economy where computing resource providers, developers, and maintainers earn rewards for their contributions[38].
+Participate in the R1 token economy where computing resource providers, developers, and maintainers earn rewards for their contributions.
 
 ## 🌐 Ecosystem Components
 
